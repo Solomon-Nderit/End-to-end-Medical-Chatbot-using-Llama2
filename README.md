@@ -28,7 +28,7 @@ pip install -r requirements.txt
 ### Create a `.env` file in the root directory and add your Pinecone credentials as follows:
 
 ```ini
-PINECONE_API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+PINECONE_API_KEY = "pcsk_3xovLW_3RE6etqdYFDfeLrVz2kS1xoTKnc783tG19CJfan1PPsZPqAzXPkmDPBe3rfMYRL"
 PINECONE_API_ENV = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 ```
 
